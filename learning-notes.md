@@ -7,3 +7,4 @@ It helps developers:
 - Manage project versions.
 - Work with other developers.
 - Restore previous versions.
+I have successfully learned how to stage and commit changes using Git.
